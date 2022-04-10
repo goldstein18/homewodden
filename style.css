@@ -6,8 +6,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
 
 body {
-    background-image: url("img/header-image2.JPG");
-    background-size: cover;
+    /*background-image: url("img/header-image2.JPG");
+    background-size: cover;*/
+    background-color: black;
     font-family: 'Montserrat', sans-serif;
    
    
@@ -74,7 +75,8 @@ header a p {
 @media (max-width:600px){
 
 body {
-    background-image:url("/img/header-image.JPG");
+    /*background-image:url("/img/header-image.JPG");*/
+    background-color: black;
  
 }
 .reservar {
